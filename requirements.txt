@@ -1,0 +1,6 @@
+matplotlib
+trimesh
+open3d
+pyglet<2
+mesh-to-sdf @ git+https://github.com/Fzaero/mesh_to_sdf
+torchmeta @ git+https://github.com/Fzaero/pytorch-meta
